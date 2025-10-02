@@ -1,3 +1,9 @@
+"""
+//Expense Tracker Application//
+This app helps track expenses, set budgets, and view monthly reports.
+Built with Python, SQLite, and SQLAlchemy.
+"""
+
 from sqlalchemy import create_engine, Column, Integer, String, Float, Date, func
 from sqlalchemy.orm import declarative_base, sessionmaker
 from datetime import datetime

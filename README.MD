@@ -11,7 +11,7 @@ It runs in the terminal and uses SQLite as the database.
 
 ## Installation
 
-git clone <repo-link>
+git clone https://github.com/PuneetKathpalia/expense-tracker.git
 cd expense-tracker
 pip install -r requirements.txt
 python app.py
